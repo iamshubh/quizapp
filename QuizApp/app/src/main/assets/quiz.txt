@@ -1,0 +1,27 @@
+{
+	"data": [{
+			"imgUrl": "http://www.dsource.in/sites/default/files/resource/logo-design/logos/logos-representing-india/images/01.jpeg",
+			"name": "AADHAAR",
+			"id": "0",
+			"position": "0"
+		},
+		{
+			"imgUrl": "https://static.digit.in/default/thumb_101067_default_td_480x480.jpeg",
+			"name": "PHONEPE",
+			"id": "1",
+			"position": "1"
+		},
+		{
+			"imgUrl": "https://cdn.iconscout.com/icon/free/png-256/bhim-3-69845.png",
+			"name": "BHIM",
+			"id": "2",
+			"position": "2"
+		},
+		{
+			"imgUrl": "https://media.glassdoor.com/sqll/300494/flipkart-com-squarelogo-1433217726546.png",
+			"name": "FL",
+			"id": "3",
+			"position": "3"
+		}
+	]
+}
